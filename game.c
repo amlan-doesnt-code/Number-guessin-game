@@ -53,7 +53,7 @@ int main()
     int guess;
     int num;
     int flag=0;
-    printf("\t\t welcome to the number guessing game V2 \t\t\n\n");
+    printf("\t\t welcome to the number guessing game V2.0 \t\t\n\n");
 
     srand(time(NULL));//setting up the genarator 
     num=rand()%100+1;
